@@ -6,7 +6,7 @@ namespace BustaLuchApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello New New World!");
+            Console.WriteLine("Hello New World!");
         }
     }
 }
